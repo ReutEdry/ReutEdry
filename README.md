@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Reut Edry</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
+- 🚀 I embody high self-discipline and a constant pursuit of professional excellence.
+- 💡 Autodidact and team player.
+
 - 🏆 I recently built a clone of Trello, check it out, it's pretty cool! [Fellow](https://fellow-l5xn.onrender.com/)
 
 - 📫 How to reach me **reutedry1@gmail.com**

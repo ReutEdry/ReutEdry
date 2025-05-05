@@ -3,7 +3,7 @@
 
 - 🚀 I embody high self-discipline and a constant pursuit of professional excellence.
 - 💡 Autodidact and team player.
-- 
+  
 - 📫 How to reach me **reutedry1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

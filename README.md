@@ -3,9 +3,7 @@
 
 - 🚀 I embody high self-discipline and a constant pursuit of professional excellence.
 - 💡 Autodidact and team player.
-
-- 🏆 I recently built a clone of Trello, check it out, it's pretty cool! [Fellow](https://fellow-l5xn.onrender.com/)
-
+- 
 - 📫 How to reach me **reutedry1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
